@@ -1,0 +1,6 @@
+interface:
+  display_name: "Smart Skills"
+  short_description: "Clarify decisions, confirm requirements, and choose skills"
+  default_prompt: "Use $using-smart-skills to explore my requirements through a decision-tree interview, wait for my answers, confirm our shared understanding, and compare similar skills for this task, recommend one or a compatible combination, and let me choose before authorized work."
+policy:
+  allow_implicit_invocation: true
